@@ -6,3 +6,4 @@ Todo:
   *Compare 2nd column to itself with each item in list reversed
   *Come against '', with one as UK and one as US
   *Save new lists
+**Finding words that are different words phonetically when backwards. This I'll want for Able Was I sentences**
